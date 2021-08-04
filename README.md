@@ -1,4 +1,4 @@
-### Oiii! Eu ou o Pedro Souza 👋
+### Oiii! Eu sou o Pedro Souza 👋
 
 - 🔭 Hoje trabalho com front-end e back-end no TRF
 - 🌱 Estudando Java
