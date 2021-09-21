@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Pedro Souza 👋
 
-- 🔭 Hoje trabalho com front-end e back-end no TRF
+- 🔭 Hoje trabalho com front-end e back-end no TRF e na Função Sistemas
 - 🌱 Estudando C# e .NET
 - 📫 Contate-me no email: pedro.souza4237@gmail.com
 
