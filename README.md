@@ -1,8 +1,8 @@
-### Oiii! Eu sou o Pedro Souza 👋
+### Hiii! My name is Pedro Souza 👋
 
-- 🔭 Hoje trabalho com front-end e back-end no TRF e na Função Sistemas
-- 🌱 Estudando C# e .NET
-- 📫 Contate-me no email: pedro.souza4237@gmail.com
+- 🔭 I'm working with back-end in ANDRITZ
+- 🌱 Work with: C#, .NET, WPF.
+- 📫 Contact me on my email: pedro.souza4237@gmail.com
 
  <div>
   <a href="https://github.com/pedrosouza423">
