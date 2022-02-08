@@ -1,7 +1,7 @@
 ### Hiii! My name is Pedro Souza 👋
 
-- 🔭 I'm working with back-end in ANDRITZ
-- 🌱 Work with: C#, .NET, WPF.
+- 🔭 I'm working with front-end in ANDRITZ
+- 🌱 Work with: React, redux, Javascript.
 - 📫 Contact me on my email: pedro.souza4237@gmail.com
 
  <div>
