@@ -1,7 +1,7 @@
 ### Hiii! My name is Pedro Souza 👋
 
-- 🔭 I'm working with front-end in ANDRITZ
-- 🌱 Work with: React, redux, Javascript.
+- 🔭 I'm working with front-end in AVANADE
+- 🌱 Work with: React.
 - 📫 Contact me on my email: pedro.souza4237@gmail.com
 
  <div>
