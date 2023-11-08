@@ -1,7 +1,6 @@
 ### Hiii! My name is Pedro Souza 👋
 
-- 🔭 I'm working with front-end in AVANADE
-- 🌱 Work with: React.
+- 🌱 Work with: React and NextJS.
 - 📫 Contact me on my email: pedro.souza4237@gmail.com
 
  <div>
